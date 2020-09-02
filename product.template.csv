@@ -1,0 +1,745 @@
+Sequence,Internal Reference,Name,Website,Sales Price,Cost,Quantity On Hand,Forecasted Quantity,Activity Exception Decoration,Product Category/Complete Name
+1,,1 Door Curio,,1650,0,0,0,,Furniture - Non Inventory
+1,,1 Door Curio With 2 Door Bookcase,,0,0,0,0,,Furniture - Non Inventory
+1,,1 Door Curio With 4 Door Bookcase,,0,0,0,0,,Furniture - Non Inventory
+1,,1 Door Curio With Buffet,,0,0,0,0,,Furniture - Non Inventory
+1,,1318 Tovaglia Tablecloth,,1,0,0,-1,,Linen
+1,,166 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,166 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,167 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,167 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,180 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,180 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,1801,,139,0,0,0,,Dinettes
+1,,1802,,139,0,0,0,,Dinettes
+1,,1802,,1,0,0,0,,BA - Inventory
+1,,2 Door Bookcase,,0,0,0,0,,Furniture - Non Inventory
+1,,2 Door Curio,,2250,0,0,0,,Furniture - Non Inventory
+1,,2 Door Curio (SP),,0,0,0,0,,Furniture - Non Inventory
+1,,2 Door Curio With 4 Door Bookcase,,1,0,0,0,,Furniture - Non Inventory
+1,,2 Door Curio With Buffet,,0,0,0,0,,Furniture - Non Inventory
+1,,2 Door Curio With Two 2 Door Bookcases,,0,0,0,0,,Furniture - Non Inventory
+1,,2 Door Curio with Elizabeth Bookcase,,1,0,0,0,,Furniture - Non Inventory
+1,,2 Seater Couch,,0,0,0,0,,Furniture - Non Inventory
+1,,2 Slice Toaster,,17.5,0,0,-6,,Houseware - Non inventory
+1,,"2"" Round Legs (Rose)",,0,0,0,0,,Dinettes
+1,,"2"" Square Legs (Rose)",,0,0,0,0,,Dinettes
+1,,209 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,209 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,266 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,266 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,284 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,284 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,299 Arm Chair,,375,0,0,6,,Furniture - Non Inventory
+1,,299 Side Chair,,325,0,0,2,,Furniture - Non Inventory
+1,,3 Door China Closet,,3850,0,0,0,,Furniture - Non Inventory
+1,,3 Seater Couch,,0,0,0,-1,,Furniture - Non Inventory
+1,,300 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,300 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,30103,,139,0,0,0,,Dinettes
+1,,30123,,139,0,0,0,,Dinettes
+1,,30124,,139,0,0,0,,Dinettes
+1,,30144,,165,0,0,0,,Dinettes
+1,,30154,,139,0,0,0,,Dinettes
+1,,303-3132,,1,0,0,0,,BA - Inventory
+1,,30320,,139,0,0,0,,Dinettes
+1,,30321,,139,0,0,0,,Dinettes
+1,,30332,,139,0,0,0,,Dinettes
+1,,30593,,139,0,0,0,,Dinettes
+1,,310,,139,0,0,0,,Dinettes
+1,,346 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,346 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,35198,,139,0,0,0,,Dinettes
+1,,379 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,379 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,4 Door Bookcase,,2375,0,0,0,,Furniture - Non Inventory
+1,,4 Door China Closet,,3850,0,0,0,,Furniture - Non Inventory
+1,,4 Line Velvet Pique Style -LP-1,,420,0,0,0,,Linen
+1,,4 Pack AA Batteries,,2.35,0,0,-9,,Houseware - Non inventory
+1,,415 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,415 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,429 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,429 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,467 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,467 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,492 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,492 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,493 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,493 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,499 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,499 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,5 Oz Havdula Glass,,0.95,0,0,-9,,Houseware - Non inventory
+1,,512,,139,0,0,0,,Dinettes
+1,,517 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,517 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,524,,139,0,0,0,,Dinettes
+1,,527 Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,527 Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,6 Door China Closet,,4650,0,0,0,,Furniture - Non Inventory
+1,,631,,139,0,0,0,,Dinettes
+1,,641,,139,0,0,0,,Dinettes
+1,,661,,139,0,0,0,,Dinettes
+1,,671,,139,0,0,0,,Dinettes
+1,,68 Base,,0,0,0,0,,Dinettes
+1,,698,,139,0,0,0,,Dinettes
+1,,95 Base,,0,0,0,0,,Dinettes
+1,,Acropolis -E-2,,420,0,0,0,,Linen
+1,,Additional Earring Diamond,,1,0,0,0,,Jewelry / Earrings
+1,,Agate Thistle -EL-2,,420,0,0,0,,Linen
+1,,Aida,,5500,0,0,0,,Furniture - Non Inventory
+1,,Aida Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Akina -B-1,,420,0,0,-1,,Linen
+1,,Alain Walnut,,5500,0,0,0,,Furniture - Non Inventory
+1,,Alarm Clock,,8.75,0,0,-9,,Houseware - Non inventory
+1,,Amisco Base,,0,0,0,0,,Dinettes
+1,,Amisco Bases,,0,0,0,0,,Dinettes
+1,,Amisco Glass Tops,,0,0,0,0,,Dinettes
+1,,Amsterdam -E-2,,270,0,0,0,,Linen
+1,,Apex,,0,0,0,0,,Linen
+1,,Apron A&Q Lace,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron All Lace #12,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron BRC Flowers,,125,0,0,1,,Judaica-Non Inventory
+1,,Apron BRC Multi Lace,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron BRC Scallops Lace,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Balls,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Bamboo Strips,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Bletel,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Boxes,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Bridal,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Circle,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Crinkle,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Crochet,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Daisy,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Dot,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Floral Print,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Floral Tulle,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron GR,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron GT Textured,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Geometric,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Glitzy Rose Puff,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Gold Lurex W/ Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Leaf All Lace,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron PD Print,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Paisley Puff,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Polka Dots,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Seersucker,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Slanty Strips,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Speckled,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Stripe,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Sunflower,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Swirl Lace,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Tile Print,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Twill *HS*,,125,0,0,1,,Judaica-Non Inventory
+1,,Apron Twill *M*,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron Twill Geometric Silver - Sq-,,125,0,0,0,,Judaica-Non Inventory
+1,,Apron U,,125,0,0,0,,Judaica-Non Inventory
+1,,Artemide,,5500,0,0,0,,Furniture - Non Inventory
+1,,Ateres Full Set (Prestige Design),,575,0,0,0,,Judaica-Non Inventory
+1,,Azelia -LP-2,,420,0,0,0,,Linen
+1,,Barcelona -E-2,,420,0,0,0,,Linen
+1,,Base 88,,0,0,0,0,,Dinettes
+1,,Basic Hangers,,0.37,0,0,-241,,Houseware - Non inventory
+1,,Bath Mat,,7.5,0,0,-6,,Placeholders
+1,,Bath Sheet,,15.65,0,0,-26,,Placeholders
+1,,Becher,,750,0,-10,44,,Silver / Bechers Regular
+1,,Becher (SP),,0,0,-1,-2,,Silver / Bechers Regular
+1,,Bejeweled,,0,0,0,0,,Linen
+1,,Bejeweled Lined,,0,0,0,0,,Linen
+1,,Bella,,0,0,0,0,,Linen
+1,,Bl & Wh Thread,,2.75,0,0,-8,,Houseware - Non inventory
+1,,Bliss,,0,0,0,0,,Linen
+1,,Blush Tones  -M-2,,420,0,0,0,,Linen
+1,,Bracelet,,0,0,20,19,,Jewelry / Bracelets
+1,,Bracelet (BA-4086),,1,0,0,0,,BA - Inventory
+1,,Brach Sheets,,0,0,0,0,,Linen
+1,,Brilliance,,0,0,0,-1,,Linen
+1,,Bronco,,0,0,0,0,,Linen
+1,,Broom,,20.85,0,0,-9,,Houseware - Non inventory
+1,,Broom (SP),,0,0,0,-1,,Houseware - Non inventory
+1,,CUBE,,0,0,0,-3,,Linen
+1,,CZ Ring Setting,,625,0,-6,0,,Jewelry / Rings
+1,,Cadence -E-2,,420,0,0,0,,Linen
+1,,Can Opener,,14.1,0,0,-1,,Houseware - Non inventory
+1,,Candlesticks,,0,0,0,0,,Silver / Lachter
+1,,Candlesticks,,0,0,0,0,,Silver / Lachter
+1,,Capri Crushed,,0,0,0,0,,Linen
+1,,Capri Express Arm Chair (Stock),,0,0,0,0,,Furniture - Non Inventory
+1,,Capri Express Side Chair (Stock),,325,0,0,0,,Furniture - Non Inventory
+1,,Caravelle,,0,0,0,0,,Linen
+1,,Carmel Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Carolyn,,0,0,0,0,,Linen
+1,,Casablanca -E-2,,420,0,0,-1,,Linen
+1,,Ceremony,,0,0,0,0,,Linen
+1,,Ceremony Lined,,0,0,0,0,,Linen
+1,,Charlotte Arm Chairs,,375,0,0,0,,Furniture - Non Inventory
+1,,Charlotte Side Chairs,,325,0,0,0,,Furniture - Non Inventory
+1,,Chatsworth -E-2,,420,0,0,0,,Linen
+1,,Chloe Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,Chloe Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,Circle Organza,,0,0,0,0,,Linen
+1,,Cleopatra,,5500,0,0,0,,Furniture - Non Inventory
+1,,Cleopatra,,5500,0,0,0,,Furniture - Non Inventory
+1,,Coffee Mug,,2.2,0,0,-14,,Houseware - Non inventory
+1,,Coffee Mugs (SP),,1,0,0,0,,Houseware - Non inventory
+1,,Condor Gold Chussen Pocket Watch,,1250,0,0,-8,,Jewelry / Chusen Watch
+1,,Condor Gold Plated Chussen Pocket Watch,,275,0,0,432,,Jewelry / Chusen Watch
+1,,Confection Shaker,,1.9,0,0,-6,,Houseware - Non inventory
+1,,Corded/Cordless Phones,,96.8,0,0,-9,,Houseware - Non inventory
+1,,Cordoba -E-2,,420,0,0,0,,Linen
+1,,Corner Curio,,2250,0,0,0,,Furniture - Non Inventory
+1,,Corner Curio With 2 Door Bookcase,,1,0,0,0,,Furniture - Non Inventory
+1,,Corner Curio With 4 Door Bookcase,,0,0,0,0,,Furniture - Non Inventory
+1,,Corner Curio With Buffet,,0,0,0,0,,Furniture - Non Inventory
+1,,Corner Curio With Two 2 Door Bookcases,,0,0,0,0,,Furniture - Non Inventory
+1,,Cutlery Organizer,,7.45,0,0,-18,,Houseware - Non inventory
+1,,Cutlery Orgenizer (SP),,0,0,0,0,,Houseware - Non inventory
+1,,Cutting Board,,4.7,0,0,-3,,Houseware - Non inventory
+1,,Cypress,,0,0,0,0,,Linen
+1,,DT Gold,,0,0,0,0,,Linen
+1,,DT Silver,,0,0,0,0,,Linen
+1,,Daisy Square,,0,0,0,0,,Linen
+1,,Deluxe Cut Velvet,,0,0,0,0,,Linen
+1,,Dessert Plates,,1.9,0,0,-42,,Houseware - Non inventory
+1,,Dessert Plates (SP),,0,0,0,0,,Houseware - Non inventory
+1,,Diamond Ring Setting,,625,0,-1,-1,,Jewelry / Rings
+1,,Diamonds,,1650,0,-3,-7,,Jewelry / Diamonds
+1,,Diffuser,,12.85,0,0,-6,,Placeholders
+1,,Dinette Chairs (SP),,0,0,0,0,,Placeholders
+1,,Dinette Table Top,,1,0,0,-3,,Dinettes
+1,,Dining Room Arm Chair (SP),,0,0,0,0,,Furniture - Non Inventory
+1,,Dining Room Chair Style (SP),,0,0,0,0,,Furniture - Non Inventory
+1,,Dining Room Chair Upholstery East Coast,,0,0,0,0,,Furniture - Non Inventory
+1,,Dining Room Chair Upholstery Style,,0,0,0,-6,,Furniture - Non Inventory
+1,,Dining Room Side Chair (SP),,0,0,0,0,,Furniture - Non Inventory
+1,,Dining Room Stock Arm Chair (SP),,0,0,0,-4,,Furniture - Non Inventory
+1,,Dining Room Stock Arm Chair From Warehouse(SP),,0,0,0,0,,Furniture - Non Inventory
+1,,Dining Room Stock Side Chair (SP),,0,0,0,-2,,Furniture - Non Inventory
+1,,Dining Room Stock Side Chair From Warehouse(SP),,0,0,0,0,,Furniture - Non Inventory
+1,,Dining Room Table (SP),,0,0,0,1,,Furniture - Non Inventory
+1,,Dining Room Tablecloth (sp),,1,0,0,-2,,Linen
+1,,Dining Room Tablet,,1,0,0,-3,,Linen
+1,,Dishtowels,,5,0,0,-72,,Linen
+1,,Dishtowels (sp),,0,0,0,-24,,Linen
+1,,Divinity Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Down Pillow,,75,0,0,-2,,Linen
+1,,Down Quilts,,135,0,0,0,,Linen
+1,,Dream Escape -EL-2,,420,0,0,0,,Linen
+1,,Drinking Glasses,,1.55,0,0,-36,,Houseware - Non inventory
+1,,Drinking Glasses (SP),,0,0,0,0,,Houseware - Non inventory
+1,,Drying Mat,,0,0,0,0,,Houseware - Non inventory
+1,,Dust Pan,,2.7,0,0,-9,,Houseware - Non inventory
+1,,Dynastic,,0,0,0,0,,Linen
+1,,Earring #202,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring #203,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring #38,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring #49,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring #69,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring #79,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring #83,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring #86,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 101A,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 119-120,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 1337,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 140108-5136,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 2.29 Ct. Round loop,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 301-3866,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 345-3631,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 345-3635C,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 3933-C,,1625,0,0,-1,,Jewelry / Earrings
+1,,Earring 6177A,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring 6187,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring BV927,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring BV928/TT,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring BV930,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring DER 1027,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E-131-RS,,1625,0,1,2,,Jewelry / Earrings
+1,,Earring E-79-RS,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E0942-A3980,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E0996B-A3630,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1016-A3570,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1019,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E101B,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1035-X2880,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1068-X3800,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1085-X3020,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1092-A4230,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1100C-A3560,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1144-A4250,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E1222,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E8019,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E807-3990,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring E933B-X3160,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring EA1301,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring EDBLCRCL225,,1625,0,0,-1,,Jewelry / Earrings
+1,,Earring EPRBGT,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring ES120-101,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring ES120-138,,1625,0,0,0,,BA - Inventory
+1,,Earring EV920,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring Eclustermarq200,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring Edblhoop200,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring Edrnokernd225,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring Edrnokerpear225,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring NL120-183,,1625,0,0,1,,BA - Inventory
+1,,Earring RV682,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring RV765,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring RV921/Oval,,1625,0,0,-1,,Jewelry / Earrings
+1,,Earring VR579,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring VR740,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring VR756,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring VR797,,1625,0,0,0,,Jewelry / Earrings
+1,,Earring VR907,,1625,0,0,0,,Jewelry / Earrings
+1,,Easton,,0,0,0,0,,Linen
+1,,Egg Pot,,6.4,0,0,-6,,Houseware - Non inventory
+1,,Elegance,,5500,0,0,0,,Furniture - Non Inventory
+1,,Elegant Sheets,,0,0,0,0,,Linen
+1,,Elegante White Sheets,,0,0,0,0,,Linen
+1,,Elisabeth Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Embroidered Birds  -UL-2,,420,0,0,0,,Linen
+1,,Empress -B-1,,420,0,0,0,,Linen
+1,,Esrog Box,,825,0,0,62,,Silver / Esrog Box
+1,,Estate,,0,0,0,0,,Linen
+1,,Eternal Swirl Embroidery -M-2,,420,0,0,-1,,Linen
+1,,FLR-,,0,0,0,0,,Linen
+1,,Fairlawn -UL-2,,1,0,0,0,,Linen
+1,,Fancy Towels,,11.9,0,0,-15,,Placeholders
+1,,Fingertip Towel,,6.15,0,0,-12,,Placeholders
+1,,Flamenco Lavender -B-1,,420,0,0,0,,Linen
+1,,Flamenco Red-B-1,,420,0,0,0,,Linen
+1,,Flashlight,,2.95,0,0,-9,,Houseware - Non inventory
+1,,Fleishig Cutlery,,33.6,0,0,-15,,Houseware - Inventory
+1,,Fleishig Cutlery (SP),,0,0,0,-2,,Houseware - Inventory
+1,,Fleishig Dinnerware (SP),,0,0,0,-2,,Houseware - Non inventory
+1,,Fleishig Dinnerware Sets,,79.35,0,0,-10,,Houseware - Non inventory
+1,,Fleishig Placemats,,4,0,0,-24,,Houseware - Inventory
+1,,Fleishig Pots,,150.6,0,0,-4,,Houseware - Non inventory
+1,,Fleishig Pots (SP),,0,0,0,-2,,Houseware - Non inventory
+1,,Fleishig Tablecloth,,20.15,0,-1,-14,,Houseware - Inventory
+1,,Florence Walnut,,5500,0,0,0,,Furniture - Non Inventory
+1,,Floris -E-2,,420,0,0,0,,Linen
+1,,Flour Sifter,,11.6,0,0,-9,,Houseware - Non inventory
+1,,Flower Power -LN-1,,420,0,0,0,,Linen
+1,,Flower Rust -B-1,,420,0,-1,-2,,Linen
+1,,Formica Table Top,,0,0,0,0,,Dinettes
+1,,Fortune,,0,0,0,0,,Linen
+1,,Fortune Lined,,0,0,0,0,,Linen
+1,,French Rose -LN-1,,420,0,0,0,,Linen
+1,,Fresco -EL-2,,420,0,0,-1,,Linen
+1,,Full Lace Ivory Tablecloth,,1,0,0,0,,Linen
+1,,Full Lace White Tablecloth,,1,0,0,0,,Linen
+1,,Fusion,,0,0,0,0,,Linen
+1,,Fusion Lined,,0,0,0,0,,Linen
+1,,Gabriella,,5500,0,0,0,,Furniture - Non Inventory
+1,,Garbage Can,,18.8,0,0,-1,,Houseware - Non inventory
+1,,Garbage Can (sp),,1,0,0,0,,Houseware - Inventory
+1,,Gartel,,0,0,0,0,,Judaica-Non Inventory
+1,,Geneva,,0,0,0,0,,Linen
+1,,Glamour Gold -EL-1,,420,0,0,-4,,Linen
+1,,Glass Mixing Bowl,,5.7,0,0,-9,,Houseware - Non inventory
+1,,Glass Sugar Holder,,8.05,0,0,-9,,Houseware - Non inventory
+1,,Glee,,0,0,0,0,,Linen
+1,,Glory,,0,0,0,0,,Linen
+1,,Gold Chain,,525,0,0,-1,,Jewelry / Chusen Watch
+1,,Gold Chussen Hand Watch,,0,0,-1,-2,,Jewelry / Chusen Watch
+1,,Gold Chussen Hand Watch (303-3133),,1,0,0,0,,BA - Inventory
+1,,Gold Hangers,,2.49,0,0,-105,,Houseware - Non inventory
+1,,Gold Kallah Watch,,1975,0,-9,19,,Jewelry / Kallah Watch
+1,,Grater,,7.8,0,0,-6,,Houseware - Non inventory
+1,,Green Set Paisley -LP-2,,420,0,0,0,,Linen
+1,,Haiku,,0,0,0,0,,Linen
+1,,Haiku Lined,,0,0,0,0,,Linen
+1,,Hair Clipper,,53.45,0,0,-9,,Houseware - Non inventory
+1,,Hammer,,3.25,0,0,-9,,Houseware - Non inventory
+1,,Hamper,,13.45,0,0,-8,,Houseware - Non inventory
+1,,Hamper (sp),,1,0,0,0,,Houseware - Non inventory
+1,,Hand Blender,,46.05,0,0,-2,,Houseware - Non inventory
+1,,Hand Blender (SP),,0,0,0,-1,,Houseware - Non inventory
+1,,Hand Mirror,,3.5,0,0,-9,,Houseware - Non inventory
+1,,Hand Towel,,4.75,0,0,-14,,Placeholders
+1,,Harmony Beige -E-2,,420,0,0,-1,,Linen
+1,,Harmony Grey -E-2,,420,0,0,0,,Linen
+1,,Harmony Mauve -E-2,,420,0,0,0,,Linen
+1,,Heather -LP-2,,420,0,0,0,,Linen
+1,,Heather B -LP-2,,420,0,0,0,,Linen
+1,,Hooks,,5.45,0,0,-7,,Placeholders
+1,,Hooks (SP),,0,0,0,0,,BA - Inventory
+1,,Hummingbird -LN-1,,420,0,0,0,,Linen
+1,,Ice Shadow -EL-2,,420,0,0,0,,Linen
+1,,Impero Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Impero Walnut,,5500,0,0,0,,Furniture - Non Inventory
+1,,Impero White,,5500,0,0,-1,,Furniture - Non Inventory
+1,,Iron,,56.5,0,0,-8,,Houseware - Non inventory
+1,,Ironing Board,,90.75,0,0,-9,,Houseware - Non inventory
+1,,Isoletta Rose -B-1,,420,0,0,-1,,Linen
+1,,Kaftor Full Set (Elegance),,575,0,0,0,,Judaica-Non Inventory
+1,,Kaftor Haggudahs,,0,0,0,0,,Judaica-Non Inventory
+1,,Kaftor Kallah Sets,,0,0,0,0,,Judaica-Non Inventory
+1,,Kaftor Siddur,,0,0,0,0,,Judaica-Non Inventory
+1,,Kaftor Special Set (Smart Package),,575,0,0,-1,,Judaica-Non Inventory
+1,,Kedishen Ring,,125,0,0,-1,,Jewelry / Kedishen Rings
+1,,Kitchen Tablecloth (sp),,1,0,0,-2,,Linen
+1,,Kitchen Towel,,9.5,0,0,-24,,Placeholders
+1,,Kitchen Towels (SP),,0,0,0,-4,,BA - Inventory
+1,,Kitchenware,,0,0,0,0,,Houseware - Non inventory
+1,,Kittel,,215,0,0,-2,,Judaica-Non Inventory
+1,,Kona -EL-2,,420,0,0,0,,Linen
+1,,LC 95 Tablecloth,,0,0,0,0,,Linen
+1,,La Nappe Sheets,,0,0,0,0,,Linen
+1,,Large Drainboard,,0,0,0,0,,Houseware - Non inventory
+1,,Large Envelope,,1.7,0,0,-12,,Placeholders
+1,,Large Knife,,13.3,0,0,-11,,Houseware - Non inventory
+1,,Large Scissor,,3.4,0,0,-8,,Houseware - Non inventory
+1,,Large Stainless Mixing Bowl,,4.05,0,0,-6,,Houseware - Non inventory
+1,,Large Wire Drainer,,0,0,0,0,,Houseware - Non inventory
+1,,Laundry Basket,,4.1,0,0,-5,,Houseware - Non inventory
+1,,Lc 95 Silver Tablecloth,,0,0,0,0,,Linen
+3,,Leather Talis Batel ($175 Upcharge),,0,0,0,0,,Judaica-Non Inventory
+4,,Leather Talis Batel ($50 Upcharge),,0,0,0,-1,,Judaica-Non Inventory
+1,,Leonardo Table,,1600,0,0,-1,,Furniture - Non Inventory
+1,,Linen 1 (SP),,0,0,0,-5,,Linen
+1,,Linen 2 (SP),,0,0,0,-4,,Linen
+1,,Linen 3 (SP),,0,0,0,-4,,Linen
+1,,Little Sparkle Platinum Tablecloth,,1,0,0,0,,Linen
+1,,Little Sparkle White Tablecloth,,0,0,0,0,,Linen
+1,,Lofty Tablecloth,,0,0,0,0,,Linen
+1,,Lucca Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,Lucca Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,Lugano Black  -E-2,,420,0,0,0,,Linen
+1,,Lugano Blue  -E-2,,420,0,0,0,,Linen
+1,,Lugano Grey  -E-2,,420,0,0,0,,Linen
+1,,Lugano Taupe  -E-2,,420,0,0,-1,,Linen
+1,,Luxury Sheets,,0,0,0,0,,Linen
+1,,Machzor Hamforash (Style 80),,650,0,0,0,,Judaica-Non Inventory
+1,,Madrid -E-2,,420,0,0,0,,Linen
+1,,Malaga -E-2,,420,0,0,0,,Linen
+1,,Marble -B-1,,420,0,0,0,,Linen
+1,,Marble Grey -UL-2,,420,0,0,0,,Linen
+1,,Marseille -E-2,,420,0,0,0,,Linen
+1,,Marseilles -B-1,,420,0,0,-1,,Linen
+1,,Martina Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Mattress,,1200,0,0,4,,Furniture - Non Inventory
+1,,Mattress Cover,,0,0,-2,-28,,Linen
+1,,Mattress Cover (SP),,0,0,0,-10,,Linen
+1,,Measuring Cup,,5.1,0,0,-9,,Houseware - Non inventory
+1,,Measuring Spoons,,1.4,0,0,-6,,Houseware - Non inventory
+1,,Meiros Full Set (Deluxe Leather),,575,0,0,0,,Judaica-Non Inventory
+1,,Melody Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Melody Walnut,,5500,0,0,0,,Furniture - Non Inventory
+1,,Melody White,,5500,0,0,0,,Furniture - Non Inventory
+1,,Menorah,,1975,0,0,75,,Silver / Menorah Regular
+1,,Menorah (SP),,0,0,0,0,,Silver / Menorah Regular
+1,,Messina White -WH-1,,420,0,0,0,,Linen
+1,,Metallic Ice White -LN-1,,420,0,0,0,,Linen
+1,,Miasta Walnut,,5500,0,0,0,,Furniture - Non Inventory
+1,,Miasta White,,5500,0,0,0,,Furniture - Non Inventory
+1,,Milchig Cutlery,,33.6,0,0,-15,,Houseware - Inventory
+1,,Milchig Cutlery (SP),,0,0,0,-3,,Houseware - Inventory
+1,,Milchig Dinnerware (SP),,0,0,0,-2,,Houseware - Non inventory
+1,,Milchig Dinnerware Sets,,79.35,0,0,-13,,Houseware - Non inventory
+1,,Milchig Placemats,,4,0,0,-20,,Houseware - Inventory
+1,,Milchig Pots,,121,0,0,-7,,Houseware - Non inventory
+1,,Milchig Pots (SP),,0,0,0,-2,,Houseware - Non inventory
+1,,Milchig Tablecloth,,20.15,0,-1,-13,,Houseware - Inventory
+1,,Miracle Mop,,14.8,0,0,-9,,Houseware - Non inventory
+1,,Modena -E-2,,420,0,0,0,,Linen
+1,,Modern Flower -LN-1,,420,0,0,0,,Linen
+1,,Monica,,0,0,0,0,,Linen
+1,,Monique,,5500,0,0,-1,,Furniture - Non Inventory
+1,,Montrose,,0,0,0,0,,Linen
+1,,Montrose Lined,,0,0,0,0,,Linen
+1,,Mosaic Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Nail Clipper,,0.6,0,0,-8,,Houseware - Non inventory
+1,,Nail Scissor,,5.7,0,0,-8,,Houseware - Non inventory
+1,,Napkin Holder,,6.7,0,0,-5,,Houseware - Non inventory
+1,,Napkin Holder (SP),,0,0,0,0,,Houseware - Non inventory
+1,,New York Brown,,5500,0,0,0,,Furniture - Non Inventory
+1,,New York Brown/White,,5500,0,0,0,,Furniture - Non Inventory
+1,,Night Lamp,,24.2,0,0,-8,,Houseware - Non inventory
+1,,Noble Gold Chussen Pocket Watch,,1250,0,0,-8,,Jewelry / Chusen Watch
+1,,Noble Gold Plated Chussen Pocket Watch,,275,0,0,-4,,Jewelry / Chusen Watch
+1,,Noble Pocket Watches,,1,0,0,-1,,Jewelry / Chusen Watch
+1,,Nylon Ladle,,4,0,0,-8,,Houseware - Non inventory
+1,,Nylon Masher,,4,0,0,-8,,Houseware - Non inventory
+1,,Nylon Spoon,,4,0,0,-8,,Houseware - Non inventory
+1,,Nylon Turner,,4,0,0,-8,,Houseware - Non inventory
+1,,Nylon Utensils Set,,0,0,0,-1,,Houseware - Non inventory
+1,,Olivia -E-2,,420,0,0,0,,Linen
+1,,Olympia,,0,0,0,0,,Linen
+1,,Olympic Plated Chains,,1,55,30,69,,Jewelry / Chusen Watch
+1,,Olympic Pocket Watches,,0,0,0,53,,Jewelry / Chusen Watch
+1,,Orchid Tablecloth -Fleishmans-,,0,0,0,-2,,Linen
+1,,Orchid Tablecloth -K&K-,,1,0,0,0,,Linen
+1,,Orient Green -UL-2,,420,0,0,0,,Linen
+1,,Orient Grey -UL-2,,420,0,0,0,,Linen
+1,,Origami -EL-2,,420,0,0,-1,,Linen
+1,,PD-White,,0,0,0,0,,Linen
+1,,Pack Pens,,1.65,0,0,-9,,Houseware - Non inventory
+1,,Palace,,0,0,0,0,,Linen
+1,,Palace-UL-2,,1,0,0,-1,,Linen
+1,,Pastry Brush,,2.95,0,0,-9,,Houseware - Non inventory
+1,,Pavilion -E-2,,420,0,0,0,,Linen
+1,,Pazzazz,,0,0,0,0,,Linen
+1,,Pearl Necklace,,850,0,-5,-7,,Jewelry / Pearls
+1,,Peeler,,1.75,0,0,-17,,Houseware - Non inventory
+1,,Percolator,,80.7,0,0,-9,,Houseware - Non inventory
+1,,Pillow Protector,,0,0,-2,-32,,Linen
+1,,Pillow Protector (SP),,0,0,0,-10,,Linen
+1,,Pin Cushion,,1.45,0,0,-8,,Houseware - Non inventory
+1,,Pincord Lined,,0,0,0,0,,Linen
+1,,Pinnacle,,0,0,0,0,,Linen
+1,,Pizzazz,,0,0,0,0,,Linen
+1,,Plastic Bowl,,3.05,0,0,-16,,Houseware - Non inventory
+1,,Plastic Colander,,2.35,0,0,-15,,Houseware - Non inventory
+1,,Plastic Utensils Set,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set ,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set ,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set ,,1,0,0,0,,BA - Inventory
+1,,Plastic Utensils Set ,,1,0,0,0,,BA - Inventory
+1,,Plastic Wash Cup,,1.5,0,0,-14,,Houseware - Non inventory
+1,,Plated Chussen Hand Watch,,0,0,0,-2,,Jewelry / Chusen Watch
+1,,Plaza,,0,0,0,0,,Linen
+1,,Plaza Lined,,0,0,0,0,,Linen
+1,,Plier,,3.45,0,0,-9,,Houseware - Non inventory
+1,,Plunger,,2.7,0,0,-9,,Houseware - Non inventory
+1,,Plush,,0,0,0,0,,Linen
+1,,Polly Pillow,,20,0,0,-34,,Linen
+1,,Polly Pillow (SP),,0,0,0,-20,,Linen
+1,,Polly Quilt (SP),,0,0,0,-10,,Linen
+1,,Polly Quilts,,60,0,0,-6,,Linen
+1,,Pull Out Tape Measure,,3.3,0,0,-9,,Houseware - Non inventory
+1,,Pulse,,0,0,0,0,,Linen
+1,,Pulse Lined,,0,0,0,0,,Linen
+1,,Quilted Sizzle,,0,0,0,0,,Linen
+1,,Rain Bonnet,,1.8,0,0,-17,,Houseware - Non inventory
+1,,Ramada -LN-2,,420,0,0,0,,Linen
+1,,Recliner,,0,0,0,0,,Furniture - Non Inventory
+1,,Regular Knives,,5.05,0,0,-18,,Houseware - Non inventory
+1,,Riga Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,Riga Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,Rim Becher,,0,0,0,0,,Silver / Bechers Rim
+1,,Robin Burgundy -B-1,,420,0,0,-1,,Linen
+1,,Robin Grey -B-1,,420,0,-1,-4,,Linen
+1,,Rodeo,,0,0,0,0,,Linen
+1,,Rolling Pin,,7.5,0,0,-9,,Houseware - Non inventory
+1,,Room Spray,,6.8,0,0,-6,,Placeholders
+1,,Rose Table Base,,1,0,0,0,,Dinettes
+1,,Rossini,,5500,0,0,0,,Furniture - Non Inventory
+1,,Ruby,,5500,0,0,0,,Furniture - Non Inventory
+1,,Ruby Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Runway Style -WH-1,,420,0,0,0,,Linen
+1,,Rushin Becher,,0,0,0,0,,Silver / Bechers Rim
+1,,Safety Pins,,1.75,0,0,-8,,Houseware - Non inventory
+1,,Salt Shakers,,1.7,0,0,-8,,Houseware - Non inventory
+1,,Sapphire Tablecloth,,0,0,0,0,,Linen
+1,,Scoop,,5.1,0,0,-12,,Houseware - Non inventory
+1,,Scoop (SP),,0,0,0,-1,,Houseware - Non inventory
+1,,Scotch Tape,,0.8,0,0,-9,,Houseware - Non inventory
+1,,Screw Driver,,4.05,0,0,-9,,Houseware - Non inventory
+1,,Scrub Brush,,2.35,0,0,-6,,Houseware - Non inventory
+1,,Seam Ripper,,0.4,0,0,-8,,Houseware - Non inventory
+1,,Serrated Knives,,5.05,0,0,-17,,Houseware - Non inventory
+1,,Seville -E-2,,420,0,0,0,,Linen
+1,,Seville Tablecloth,,1,0,0,0,,Linen
+1,,Sewing Box,,0,0,0,-1,,Houseware - Non inventory
+1,,Sewing Needle,,1.2,0,0,-8,,Houseware - Non inventory
+8,,Shabbos Talis,,475,0,0,-1,,Judaica-Non Inventory
+9,,Shabbos Talis Batel,,75,0,0,-1,,Judaica-Non Inventory
+1,,Shannon,,0,0,0,0,,Linen
+1,,Shannon Lined,,0,0,0,0,,Linen
+1,,Shas Ois V'Huder,,650,0,0,0,,Judaica-Non Inventory
+1,,Shilchon Urich Habohir Large,,0,0,0,0,,Judaica-Non Inventory
+1,,Shilchon Urich Tzires Hadof Large,,0,0,0,0,,Judaica-Non Inventory
+1,,Shilchon Urich Tzires Hadof Regular,,0,0,0,0,,Judaica-Non Inventory
+1,,Shower Curtain,,24.5,0,0,-7,,Placeholders
+1,,Shower Curtain (SP),,0,0,0,0,,BA - Inventory
+1,,Shower Curtain Liner,,4.1,0,0,-7,,Placeholders
+1,,Sicily Arm Chair,,375,0,0,0,,Furniture - Non Inventory
+1,,Sicily Side Chair,,325,0,0,0,,Furniture - Non Inventory
+1,,Sierra -E-2,,420,0,0,0,,Linen
+1,,Simona,,5500,0,0,0,,Furniture - Non Inventory
+1,,Sizzle,,0,0,0,0,,Linen
+1,,Slim Envelope,,1.35,0,0,-24,,Placeholders
+1,,Small Drainboard,,0,0,0,0,,Houseware - Non inventory
+1,,Small Envelope,,0.9,0,0,-12,,Placeholders
+1,,Small Stainless Mixing Bowl,,2.8,0,0,-9,,Houseware - Non inventory
+1,,Small Wire Drainer,,0,0,0,0,,Houseware - Non inventory
+1,,Smokescreen -EL-2,,420,0,0,0,,Linen
+1,,Snowflake,,0,0,0,0,,Linen
+1,,Soraya #0134 Maroon -EL-1,,420,0,0,0,,Linen
+1,,Soraya #0135 Grey -EL-1,,420,0,0,-1,,Linen
+1,,Spatula,,1.6,0,0,-6,,Houseware - Non inventory
+1,,Spiral,,1,0,0,-9,,Houseware - Non inventory
+1,,Splash Of Color  -WH-2,,420,0,0,0,,Linen
+1,,Square Kedishan Ring,,45,0,0,0,,Jewelry / Kedishen Rings
+1,,Square Legs (Amisco),,0,0,0,0,,Placeholders
+1,,Stainless Chussen Hand Watch,,0,0,-1,-1,,Jewelry / Chusen Watch
+1,,Stainless Colander,,4,0,0,-5,,Houseware - Non inventory
+1,,Stainless Kallah Watch,,0,0,-3,1,,Jewelry / Kallah Watch
+1,,Stainless Ladle,,4.9,0,0,-7,,Houseware - Non inventory
+1,,Stainless Masher,,4.9,0,0,-7,,Houseware - Non inventory
+1,,Stainless Spoon,,4.9,0,0,-7,,Houseware - Non inventory
+1,,Stainless Turner,,4.9,0,0,-7,,Houseware - Non inventory
+1,,Stainless Utensils Set,,0,0,0,-1,,Houseware - Non inventory
+1,,Stainless Wash Cup,,17.4,0,0,-4,,Houseware - Non inventory
+1,,Stamping Kallah Sets (Kaftor),,0,0,0,0,,Judaica-Non Inventory
+1,,Step Ladder,,16.8,0,0,-9,,Houseware - Non inventory
+1,,Stick Pins,,3.9,0,0,-8,,Houseware - Non inventory
+1,,Storage Containers,,6.4,0,0,-12,,Houseware - Non inventory
+1,,Strasbourg -E-2,,420,0,0,0,,Linen
+1,,Suede,,0,0,0,0,,Linen
+1,,Suede Lined,,0,0,0,0,,Linen
+1,,Suit Hangers,,0.73,0,0,-150,,Houseware - Non inventory
+1,,Summit,,0,0,0,0,,Linen
+1,,Summit Lined,,0,0,0,0,,Linen
+1,,Sunflower -E-2,,420,0,0,0,,Linen
+1,,Tablecloth Authentic,,0,0,0,-1,,Linen
+1,,Tablecloth Bridal Lace  (Custom Tablecloths),,212.5,0,0,-1,,Linen
+1,,Tablecloth Bridal Lace Chantilly (Custom Tablecloths),,212.5,0,0,-3,,Linen
+1,,Tablecloth Bridal Lace Ivory,,0,0,0,0,,Linen
+1,,Tablecloth Bridal Lace White,,0,0,0,0,,Linen
+1,,Tablecloth Butterfly,,0,0,0,0,,Linen
+1,,Tablecloth Chantilly Ivory,,0,0,0,0,,Linen
+1,,Tablecloth Chk Silver,,0,0,0,0,,Linen
+1,,Tablecloth Circle,,0,0,0,-1,,Linen
+1,,Tablecloth Feathers,,0,0,0,0,,Linen
+1,,Tablecloth Floral Lace,,1,0,0,0,,Linen
+1,,Tablecloth LC 07,,0,0,0,0,,Linen
+1,,Tablecloth LC07,,0,0,0,0,,Linen
+1,,Tablecloth LC55 Lace Ecru,,0,0,0,0,,Linen
+1,,Tablecloth LC78 French Lace,,0,0,0,0,,Linen
+1,,Tablecloth LC95,,0,0,0,0,,Linen
+1,,Tablecloth Linen Look Bliss,,0,0,0,-1,,Linen
+1,,Tablecloth Liner,,16,0,0,-24,,Linen
+1,,Tablecloth Silver Outline,,0,0,0,0,,Linen
+1,,Tablecloth Sparkle Ivory/Gold,,0,0,0,-1,,Linen
+1,,Tablecloth Sparkle White/Grey,,0,0,0,-5,,Linen
+1,,Tablecloth Sparkle White/White,,0,0,0,0,,Linen
+1,,Tape Measure,,0.55,0,0,-8,,Houseware - Non inventory
+1,,Tea Kettle,,12,0,0,-6,,Houseware - Non inventory
+1,,Tefillah Bekavunah (9 Vol. New Deluxe),,575,0,0,0,,Judaica-Non Inventory
+1,,Tefillah Bekavunah (9 Vol. Package),,575,0,0,0,,Judaica-Non Inventory
+1,,Thunder,,0,0,0,0,,Linen
+1,,Thunder Lined,,0,0,0,0,,Linen
+1,,Tichel Balls W/O Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Balls With Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Bamboo,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Bamboo Strips *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Crinkle *F*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Crinkle *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Crinkle Solid Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Crystal,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Dot *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Floral Print *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Fringe Dot *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel GR With Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel GT Textured *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Geometric *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Glitzy Rose Puff *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Gold Lurex W/ Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Gold Lurex W/O Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Line Tri *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Multi Shapes,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel PD Print *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Paisley Puff *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Paisley W/ Twill Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Polka Dots *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Scraped Print *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Seersucker *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Shape,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Slanty Strips *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Solid Twill *F*,,125,0,0,1,,Judaica-Non Inventory
+1,,Tichel Solid Twill *HS*,,125,0,0,1,,Judaica-Non Inventory
+1,,Tichel Solid Twill *M*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Sparkle Silk *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Speckled *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Stone,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Stripe With Border,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Stripe With Gold Edge,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Tile Print *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,"Tichel Twill Geometric Silver 28"" *HS*",,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Twill With Beads,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Twill With Border *F*,,125,0,0,1,,Judaica-Non Inventory
+1,,Tichel Twill With Border *M*,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Twill With Gold Edge,,125,0,0,0,,Judaica-Non Inventory
+1,,Tichel Wallpaper Print *HS*,,125,0,0,0,,Judaica-Non Inventory
+1,,Toaster Oven,,32.25,0,0,-3,,Houseware - Non inventory
+1,,Toilet Brush,,4.7,0,0,-5,,Houseware - Non inventory
+1,,Tool Box,,0,0,0,0,,Houseware - Non inventory
+1,,Tor Markowitz,,375,0,0,0,,Judaica-Non Inventory
+1,,Tor Shiras Devorah Large,,0,0,0,0,,Judaica-Non Inventory
+1,,Tor Shiras Devorah Medium,,0,0,0,0,,Judaica-Non Inventory
+1,,Tor Shiras Devorah Small,,0,0,0,0,,Judaica-Non Inventory
+1,,Tor Vshilchon Urich Habohir 26,,0,0,0,0,,Judaica-Non Inventory
+1,,Tor Vshilchon Urich Habohir 38,,0,0,0,0,,Judaica-Non Inventory
+1,,Tor Vshilcon Urich Tzirs Hadof,,0,0,0,0,,Judaica-Non Inventory
+1,,Tower,,0,0,0,0,,Linen
+1,,Travertine,,0,0,0,0,,Linen
+1,,Travertine Gold -WH-1,,420,0,0,0,,Linen
+1,,Travertine Lined,,0,0,0,0,,Linen
+1,,Travertine Silver -WH-1,,420,0,0,0,,Linen
+1,,Treasure,,0,0,0,0,,Linen
+1,,Treasure Lined,,0,0,0,0,,Linen
+1,,Triple Ribbon -WH-1,,420,0,0,0,,Linen
+1,,Triple Silver -UL-1,,420,0,0,0,,Linen
+1,,Triple Silver Navy  -UL-2,,420,0,0,0,,Linen
+1,,Turntable,,6.9,0,0,-4,,Houseware - Non inventory
+1,,Twilight,,0,0,0,0,,Linen
+1,,Twilight Lined,,0,0,0,0,,Linen
+1,,Twinkle,,0,0,0,0,,Linen
+1,,Two 1 Door Curio Without Buffet,,0,0,0,0,,Furniture - Non Inventory
+1,,Two 1 Door Curios With Buffet,,0,0,0,0,,Furniture - Non Inventory
+1,,Two 2 Door Curios With Buffet,,0,0,0,0,,Furniture - Non Inventory
+1,,Tycoon Gold -WH-1,,420,0,0,0,,Linen
+1,,Tycoon Silver -WH-1,,420,0,0,0,,Linen
+1,,Tzena Rena,,120,0,0,-1,,Judaica-Non Inventory
+1,,Tzitzit,,8.5,0,0,0,,Judaica-Non Inventory
+1,,Urbino Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,VA1200 Leaves Brocade -LL-1,,420,0,0,0,,Linen
+1,,Vacuum Cleaner,,0,0,0,0,,Houseware - Non inventory
+1,,Valencia -E-2,,420,0,0,0,,Linen
+1,,Vanity Set,,102,0,0,-3,,BA - Non Inventory
+1,,Vel55 Tablecloth,,0,0,0,0,,Linen
+1,,Velvet Fantasy,,0,0,0,0,,Linen
+1,,Velvet Glitz,,0,0,0,0,,Linen
+1,,Velvet Weave Hotel Style -LL-1,,420,0,0,0,,Linen
+1,,Venezzia -E-2,,420,0,0,0,,Linen
+1,,Venice Table,,1775,0,0,0,,Furniture - Non Inventory
+1,,Verona,,0,0,0,0,,Linen
+1,,Verona Black  -E-2,,420,0,0,0,,Linen
+1,,Verona Blue  -E-2,,420,0,0,0,,Linen
+1,,Verona Grey  -E-2,,420,0,0,0,,Linen
+1,,Verona Taupe  -E-2,,420,0,0,1,,Linen
+1,,Versailles -E-2,,420,0,0,0,,Linen
+1,,Versailles Table,,1600,0,0,0,,Furniture - Non Inventory
+1,,Vibrations,,0,0,0,0,,Linen
+1,,Vibrations  -WH-3,,420,0,0,-1,,Linen
+1,,Vibrations Lined,,0,0,0,0,,Linen
+1,,Violet Sheets,,0,0,0,0,,Linen
+1,,Viznitz Becher,,0,0,0,0,,Silver / Bechers Leg
+12,,Vochen Talis,,290,0,0,0,,Judaica-Non Inventory
+2,,Vochen Talis Batel,,240,0,0,-1,,Judaica-Non Inventory
+1,,Volante -E-2,,420,0,-1,-2,,Linen
+1,,Wall Clock,,11.4,0,0,0,,Houseware - Non inventory
+1,,Wall Menorah,,0,0,0,0,,Silver / Menorah Wall
+1,,Wall Mirror,,15.15,0,0,-9,,Houseware - Non inventory
+1,,Washing Cup (SP),,0,0,0,0,,Houseware - Non inventory
+1,,White Duvet With Grey Insert & Embroidery -LL-3,,420,0,0,0,,Linen
+1,,White French Pique with Grey Crocodile -LP-1,,420,0,0,0,,Linen
+1,,White Pique -LP-2,,420,0,0,-1,,Linen
+1,,White Pique W/ Beige Rope  -UL-3,,420,0,0,0,,Linen
+1,,White Pique W/ Grey Rope  -UL-3,,420,0,0,0,,Linen
+1,,White Pique W/ Lace  -UL-3,,420,0,0,-1,,Linen
+1,,Winter Blossom Beige -E-2,,420,0,0,0,,Linen
+1,,Winter Blossom Grey -E-2,,420,0,0,0,,Linen
+1,,Wood Shelves,,35,0,0,0,,Furniture - Non Inventory
+1,,York,,0,0,0,0,,Linen
+1,,York Lined,,0,0,0,0,,Linen
+1,,Zest,,0,0,0,0,,Linen
+1,,Zest Lined,,0,0,0,-1,,Linen
+1,,Zoom,,0,0,0,-1,,Linen
+1,,formica,,1,0,0,0,,BA - Inventory
+1,,plastic Utensils Set,,1,0,0,0,,BA - Inventory
+1,,unique Sheets,,0,0,0,0,,Linen
